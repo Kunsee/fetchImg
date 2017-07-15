@@ -1,0 +1,32 @@
+{
+  "name": "fetchimg",
+  "version": "1.0.0",
+  "description": "fetchMeizhiTu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Re-Kun/fetchImg.git"
+  },
+  "keywords": [
+    "meizhi"
+  ],
+  "author": "Kun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Re-Kun/fetchImg/issues"
+  },
+  "homepage": "https://github.com/Re-Kun/fetchImg#readme",
+  "devDependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "fs": "0.0.1-security",
+    "mkdirp": "^0.5.1",
+    "path": "^0.12.7",
+    "request": "^2.81.0",
+    "superagent": "^3.5.2",
+    "superagent-charset": "^1.2.0"
+  }
+}
